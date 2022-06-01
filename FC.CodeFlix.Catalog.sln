@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{8CC84F2F-77C9-4FB3-9BFC-B7792131E08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FC.CodeFlix.Catalog.UnitTests", "tests\FC.CodeFlix.Catalog.UnitTests\FC.CodeFlix.Catalog.UnitTests.csproj", "{DF347113-D917-49B4-A6E6-83802150FF87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF347113-D917-49B4-A6E6-83802150FF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF347113-D917-49B4-A6E6-83802150FF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF347113-D917-49B4-A6E6-83802150FF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF347113-D917-49B4-A6E6-83802150FF87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DF347113-D917-49B4-A6E6-83802150FF87} = {8CC84F2F-77C9-4FB3-9BFC-B7792131E08E}
+	EndGlobalSection
+EndGlobal

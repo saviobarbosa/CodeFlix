@@ -1,0 +1,12 @@
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/bin/Debug/net6.0/FC.CodeFlix.Catalog.Domain.deps.json
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/bin/Debug/net6.0/FC.CodeFlix.Catalog.Domain.dll
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/bin/Debug/net6.0/FC.CodeFlix.Catalog.Domain.pdb
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/obj/Debug/net6.0/FC.CodeFlix.Catalog.Domain.csproj.AssemblyReference.cache
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/obj/Debug/net6.0/FC.CodeFlix.Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/obj/Debug/net6.0/FC.CodeFlix.Catalog.Domain.AssemblyInfoInputs.cache
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/obj/Debug/net6.0/FC.CodeFlix.Catalog.Domain.AssemblyInfo.cs
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/obj/Debug/net6.0/FC.CodeFlix.Catalog.Domain.csproj.CoreCompileInputs.cache
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/obj/Debug/net6.0/FC.CodeFlix.Catalog.Domain.dll
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/obj/Debug/net6.0/refint/FC.CodeFlix.Catalog.Domain.dll
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/obj/Debug/net6.0/FC.CodeFlix.Catalog.Domain.pdb
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/obj/Debug/net6.0/ref/FC.CodeFlix.Catalog.Domain.dll
