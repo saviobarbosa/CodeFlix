@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{8CC84F2F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FC.CodeFlix.Catalog.UnitTests", "tests\FC.CodeFlix.Catalog.UnitTests\FC.CodeFlix.Catalog.UnitTests.csproj", "{DF347113-D917-49B4-A6E6-83802150FF87}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{234B5064-CFEC-49FB-AFE8-80EA41AC946C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FC.CodeFlix.Catalog.Application", "src\FC.CodeFlix.Catalog.Application\FC.CodeFlix.Catalog.Application.csproj", "{0F13290D-C813-4582-BA42-F20B103728EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +24,13 @@ Global
 		{DF347113-D917-49B4-A6E6-83802150FF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF347113-D917-49B4-A6E6-83802150FF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF347113-D917-49B4-A6E6-83802150FF87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F13290D-C813-4582-BA42-F20B103728EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F13290D-C813-4582-BA42-F20B103728EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F13290D-C813-4582-BA42-F20B103728EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F13290D-C813-4582-BA42-F20B103728EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DF347113-D917-49B4-A6E6-83802150FF87} = {8CC84F2F-77C9-4FB3-9BFC-B7792131E08E}
+		{0F13290D-C813-4582-BA42-F20B103728EC} = {234B5064-CFEC-49FB-AFE8-80EA41AC946C}
 	EndGlobalSection
 EndGlobal

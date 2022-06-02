@@ -1,4 +1,3 @@
-
 using Bogus;
 
 namespace FC.CodeFlix.Catalog.UnitTests.Common;
