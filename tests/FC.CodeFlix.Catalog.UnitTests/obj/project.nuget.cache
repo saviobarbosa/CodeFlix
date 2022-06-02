@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1btGrwPfgaYTEhLoZJwjnprBPjy4Cio8Kmg4+Xuoi2NgF6dWuMLMdcIwIwMn7FE1g0R8IAlbK2/B0VRD3JPclg==",
+  "dgSpecHash": "y9X5lKR0SFEcqVlPDZU/HkBULZYyCqqRORqnkVR3jyuAB9LZW1XzZpI7U5kecv/maLknHAgE+r03pOQuKeuMag==",
   "success": true,
   "projectFilePath": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/tests/FC.CodeFlix.Catalog.UnitTests/FC.CodeFlix.Catalog.UnitTests.csproj",
   "expectedPackageFiles": [
+    "/home/saviobarbosa/.nuget/packages/bogus/34.0.1/bogus.34.0.1.nupkg.sha512",
     "/home/saviobarbosa/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/home/saviobarbosa/.nuget/packages/fluentassertions/6.7.0/fluentassertions.6.7.0.nupkg.sha512",
     "/home/saviobarbosa/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",
