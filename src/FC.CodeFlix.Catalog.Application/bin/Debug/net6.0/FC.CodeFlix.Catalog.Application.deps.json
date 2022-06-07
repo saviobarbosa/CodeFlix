@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FC.CodeFlix.Catalog.Application/1.0.0": {
+        "dependencies": {
+          "FC.CodeFlix.Catalog.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FC.CodeFlix.Catalog.Application.dll": {}
+        }
+      },
+      "FC.CodeFlix.Catalog.Domain/1.0.0": {
+        "runtime": {
+          "FC.CodeFlix.Catalog.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FC.CodeFlix.Catalog.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FC.CodeFlix.Catalog.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

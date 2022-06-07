@@ -1,0 +1,15 @@
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/bin/Debug/net6.0/FC.CodeFlix.Catalog.Application.deps.json
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/bin/Debug/net6.0/FC.CodeFlix.Catalog.Application.dll
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/bin/Debug/net6.0/FC.CodeFlix.Catalog.Application.pdb
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/obj/Debug/net6.0/FC.CodeFlix.Catalog.Application.csproj.AssemblyReference.cache
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/obj/Debug/net6.0/FC.CodeFlix.Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/obj/Debug/net6.0/FC.CodeFlix.Catalog.Application.AssemblyInfoInputs.cache
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/obj/Debug/net6.0/FC.CodeFlix.Catalog.Application.AssemblyInfo.cs
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/obj/Debug/net6.0/FC.CodeFlix.Catalog.Application.csproj.CoreCompileInputs.cache
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/obj/Debug/net6.0/FC.CodeFlix.Catalog.Application.dll
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/obj/Debug/net6.0/refint/FC.CodeFlix.Catalog.Application.dll
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/obj/Debug/net6.0/FC.CodeFlix.Catalog.Application.pdb
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/obj/Debug/net6.0/ref/FC.CodeFlix.Catalog.Application.dll
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/bin/Debug/net6.0/FC.CodeFlix.Catalog.Domain.dll
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/bin/Debug/net6.0/FC.CodeFlix.Catalog.Domain.pdb
+/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/obj/Debug/net6.0/FC.CodeFlix.Catalog.Application.csproj.CopyComplete

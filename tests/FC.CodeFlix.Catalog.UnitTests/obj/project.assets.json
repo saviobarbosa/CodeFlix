@@ -1761,6 +1761,19 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
+      "FC.CodeFlix.Catalog.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FC.CodeFlix.Catalog.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FC.CodeFlix.Catalog.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FC.CodeFlix.Catalog.Application.dll": {}
+        }
+      },
       "FC.CodeFlix.Catalog.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -6273,6 +6286,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "FC.CodeFlix.Catalog.Application/1.0.0": {
+      "type": "project",
+      "path": "../../src/FC.CodeFlix.Catalog.Application/FC.CodeFlix.Catalog.Application.csproj",
+      "msbuildProject": "../../src/FC.CodeFlix.Catalog.Application/FC.CodeFlix.Catalog.Application.csproj"
+    },
     "FC.CodeFlix.Catalog.Domain/1.0.0": {
       "type": "project",
       "path": "../../src/FC.CodeFlix.Catalog.Domain/FC.CodeFlix.Catalog.Domain.csproj",
@@ -6282,6 +6300,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Bogus >= 34.0.1",
+      "FC.CodeFlix.Catalog.Application >= 1.0.0",
       "FC.CodeFlix.Catalog.Domain >= 1.0.0",
       "FluentAssertions >= 6.7.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
@@ -6316,6 +6335,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/FC.CodeFlix.Catalog.Application.csproj": {
+              "projectPath": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/FC.CodeFlix.Catalog.Application.csproj"
+            },
             "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/FC.CodeFlix.Catalog.Domain.csproj": {
               "projectPath": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/FC.CodeFlix.Catalog.Domain.csproj"
             }

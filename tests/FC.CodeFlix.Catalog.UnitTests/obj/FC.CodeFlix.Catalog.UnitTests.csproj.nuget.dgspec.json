@@ -4,6 +4,62 @@
     "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/tests/FC.CodeFlix.Catalog.UnitTests/FC.CodeFlix.Catalog.UnitTests.csproj": {}
   },
   "projects": {
+    "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/FC.CodeFlix.Catalog.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/FC.CodeFlix.Catalog.Application.csproj",
+        "projectName": "FC.CodeFlix.Catalog.Application",
+        "projectPath": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/FC.CodeFlix.Catalog.Application.csproj",
+        "packagesPath": "/home/saviobarbosa/.nuget/packages/",
+        "outputPath": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/saviobarbosa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/FC.CodeFlix.Catalog.Domain.csproj": {
+                "projectPath": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/FC.CodeFlix.Catalog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/FC.CodeFlix.Catalog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -78,6 +134,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/FC.CodeFlix.Catalog.Application.csproj": {
+                "projectPath": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/FC.CodeFlix.Catalog.Application.csproj"
+              },
               "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/FC.CodeFlix.Catalog.Domain.csproj": {
                 "projectPath": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/FC.CodeFlix.Catalog.Domain.csproj"
               }
