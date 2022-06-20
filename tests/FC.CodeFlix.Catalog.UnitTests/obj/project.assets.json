@@ -6311,35 +6311,37 @@
     ]
   },
   "packageFolders": {
-    "/home/saviobarbosa/.nuget/packages/": {}
+    "C:\\Users\\savii\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/tests/FC.CodeFlix.Catalog.UnitTests/FC.CodeFlix.Catalog.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\savii\\Desenvolvimento\\FullCycle\\CodeFlix\\tests\\FC.CodeFlix.Catalog.UnitTests\\FC.CodeFlix.Catalog.UnitTests.csproj",
       "projectName": "FC.CodeFlix.Catalog.UnitTests",
-      "projectPath": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/tests/FC.CodeFlix.Catalog.UnitTests/FC.CodeFlix.Catalog.UnitTests.csproj",
-      "packagesPath": "/home/saviobarbosa/.nuget/packages/",
-      "outputPath": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/tests/FC.CodeFlix.Catalog.UnitTests/obj/",
+      "projectPath": "C:\\Users\\savii\\Desenvolvimento\\FullCycle\\CodeFlix\\tests\\FC.CodeFlix.Catalog.UnitTests\\FC.CodeFlix.Catalog.UnitTests.csproj",
+      "packagesPath": "C:\\Users\\savii\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\savii\\Desenvolvimento\\FullCycle\\CodeFlix\\tests\\FC.CodeFlix.Catalog.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/saviobarbosa/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\savii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/FC.CodeFlix.Catalog.Application.csproj": {
-              "projectPath": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/FC.CodeFlix.Catalog.Application.csproj"
+            "C:\\Users\\savii\\Desenvolvimento\\FullCycle\\CodeFlix\\src\\FC.CodeFlix.Catalog.Application\\FC.CodeFlix.Catalog.Application.csproj": {
+              "projectPath": "C:\\Users\\savii\\Desenvolvimento\\FullCycle\\CodeFlix\\src\\FC.CodeFlix.Catalog.Application\\FC.CodeFlix.Catalog.Application.csproj"
             },
-            "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/FC.CodeFlix.Catalog.Domain.csproj": {
-              "projectPath": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Domain/FC.CodeFlix.Catalog.Domain.csproj"
+            "C:\\Users\\savii\\Desenvolvimento\\FullCycle\\CodeFlix\\src\\FC.CodeFlix.Catalog.Domain\\FC.CodeFlix.Catalog.Domain.csproj": {
+              "projectPath": "C:\\Users\\savii\\Desenvolvimento\\FullCycle\\CodeFlix\\src\\FC.CodeFlix.Catalog.Domain\\FC.CodeFlix.Catalog.Domain.csproj"
             }
           }
         }
@@ -6402,7 +6404,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

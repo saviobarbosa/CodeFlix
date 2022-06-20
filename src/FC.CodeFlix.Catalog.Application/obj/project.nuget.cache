@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a0nuKZ12y+LqThnGInRDkKhS/VvHmzjr+OVvdS0aTXOObAtY5nskZzOfhVo37sttq4oDpOV4TEEAAbz0k0OMEQ==",
+  "dgSpecHash": "ov+56zMfL2vL2uNaf1MdmrLxN2OO/0RjrmFsR2umM1gXC9MpA/mzK8Jc2GpK74dK6ip6Cib1/xfzasSzhgTvGg==",
   "success": true,
-  "projectFilePath": "/home/saviobarbosa/Desenvolvimento/FullCycle/CodeFlix/src/FC.CodeFlix.Catalog.Application/FC.CodeFlix.Catalog.Application.csproj",
+  "projectFilePath": "C:\\Users\\savii\\Desenvolvimento\\FullCycle\\CodeFlix\\src\\FC.CodeFlix.Catalog.Application\\FC.CodeFlix.Catalog.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
